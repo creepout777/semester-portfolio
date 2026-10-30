@@ -12,9 +12,9 @@ Index of the deliverables submitted at the end of the semester in the Cybersecur
 
 | Module | Deliverable | Link |
 |---|---|---|
-| Distributed Applications | Lab exercises in Python: client/server, retries, asyncio, serialization | [TP-applications-distribuees-python](https://github.com/creepout777/TP-applications-distribuees-python) |
-| Cloud Computing | Lab report comparing VMware ESXi and Proxmox VE | [ESXi vs Proxmox VE](https://github.com/creepout777/Exploration-et-comparaison-de-VMware_ESXi-et-Proxmox_VE) |
-| Semester project | UEMF University Management, a full-stack web platform with a Telegram bot | [Repository](https://github.com/creepout777/UEMF-University-Management) · [Live demo](http://5.189.141.148:3000/login) |
+| Distributed Applications | Lab exercises in Python: client/server, retries, asyncio, serialization | [TP-applications-distribuees-python](https://github.com/creepout777/distributed-applications-labs) |
+| Cloud Computing | Lab report comparing VMware ESXi and Proxmox VE | [ESXi vs Proxmox VE](https://github.com/creepout777/esxi-vs-proxmox) |
+| Semester project | UEMF University Management, a full-stack web platform with a Telegram bot | [Repository](https://github.com/creepout777/uemf-university-management) · [Live demo](http://5.189.141.148:3000/login) |
 
 ## Author
 
